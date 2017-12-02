@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
 
         <service android:name=".ShemboardService"
-            android:label="Etzbaot"
+            android:label="אצבאות"
             android:permission="android.permission.BIND_INPUT_METHOD">
             <intent-filter>
                 <action android:name="android.view.InputMethod" />
