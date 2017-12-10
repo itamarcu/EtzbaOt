@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Shemboard.iml" filepath="$PROJECT_DIR$/Shemboard.iml" />
+      <module fileurl="file://C:\Itamar\Android Workspace\etzbaot3\Shemboard.iml" filepath="C:\Itamar\Android Workspace\etzbaot3\Shemboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/etzbaot3.iml" filepath="$PROJECT_DIR$/.idea/etzbaot3.iml" />
     </modules>
   </component>
 </project>
