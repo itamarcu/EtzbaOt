@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="fingerPointColor1">#80abfff5</color>
+    <color name="fingerPointColor2">#80b3ffab</color>
+    <color name="fingerPointColor3">#80f7ffab</color>
+    <color name="fingerPointColor4">#80ffbfab</color>
+    <color name="fingerPointColor5">#80fcabff</color>
+    <color name="fingerPointLineColorThick">#caffffff</color>
+    <color name="fingerPointLineColorThin">#caff0000</color>
 </resources>

@@ -8,6 +8,25 @@ public class KeyMap
         /**
          * Alphabetical order for the binary numbers.
          */
+        אבגדה()
+                {
+                    @Override
+                    String code()
+                    {
+                        return "אבגד" +
+                                "הוזח" +
+                                "טיכל" +
+                                "מנסע" +
+                                "פצקר" +
+                                "שת!?" +
+                                ",.#-" +
+                                "@$ "
+                                ;
+                    }
+                },
+        /**
+         * Alphabetical order for the binary numbers.
+         */
         ABDHP()
                 {
                     @Override
@@ -20,7 +39,7 @@ public class KeyMap
                                 "qrst" +
                                 "uvwx" +
                                 "yz#-" +
-                                "#$ "
+                                "@$ "
                                 ;
                     }
                 },
@@ -39,7 +58,7 @@ public class KeyMap
                                 "gwyb" +
                                 "vkxj" +
                                 "qz#-" +
-                                "#$ "
+                                "@$ "
                                 ;
                     }
                 },
@@ -62,7 +81,7 @@ public class KeyMap
          * [none]
          * <p>
          * 4 touch: 15 23 27 29 30
-         * j [none] q z [special]
+         * j z q [switch] [special]
          */
         ETAOI()
                 {
@@ -74,9 +93,9 @@ public class KeyMap
                                 "udxr" +
                                 "ygji" +
                                 "fmkc" +
-                                "w##h" +
+                                "w#zh" +
                                 "vbq-" +
-                                "z$ "
+                                "@$ "
                                 ;
                     }
                 };
